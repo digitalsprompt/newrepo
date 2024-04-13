@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    height: 400px;
+    width: 1;
+}
+
+div {
+    border: 4px;
+    border-radius: 2;
+}
+
+h3 {
+    color: tomato;
+}
